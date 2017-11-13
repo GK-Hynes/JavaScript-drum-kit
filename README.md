@@ -2,7 +2,7 @@
 
 A drum kit built using vanilla JavaScript. Built for Wes Bos' [JavaScript 30](https://javascript30.com/) course.
 
-![JavaScript drum kit screenshot](https://screenshots.firefoxusercontent.com/images/1d296561-3047-438d-adeb-da9447535180.png)
+[![JavaScript drum kit screenshot](https://screenshots.firefoxusercontent.com/images/1d296561-3047-438d-adeb-da9447535180.png)](https://gk-hynes.github.io/javascript-drum-kit/)
 
 ## Notes
 
